@@ -1,0 +1,38 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "clock",
+      "rootUri": "file:///C:/Users/Sean/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/clock-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "intl",
+      "rootUri": "file:///C:/Users/Sean/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/intl-0.18.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///C:/Users/Sean/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/meta-1.11.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///C:/Users/Sean/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/path-1.8.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "sean",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    }
+  ],
+  "generated": "2023-12-05T03:29:34.260980Z",
+  "generator": "pub",
+  "generatorVersion": "3.1.0-262.3.beta"
+}
